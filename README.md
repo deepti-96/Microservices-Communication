@@ -14,4 +14,12 @@ A distributed system is an application that executes a collection of protocols t
 ### config.js
   To automatically configure any new message services that join the network and to maintain minimum intervention from the developers, an auto-configuration file needs to be created, that would take the details of the new message services as the parameters and configure them to the network. </br>
   
+# Available scripts
+
+In the project directory, you can run:</br>
+
+```
+npm run publish 
+npm run consumer
+```
   
